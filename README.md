@@ -1,12 +1,10 @@
 # StrideBot
 Introducing StrideBot - a biped robot made to mimic the human gait algorithm, by breaking down forward and backward kinematics through a 6 stage process
 
-# Biped-robot-arduino-project-
-
-Here is a link to the video that I made of the project:
+Link to the video:
 https://www.youtube.com/watch?v=hyNF8KC1o14&t=7s
 
-Better footage of its motion:
+More footage of its motion:
 https://www.youtube.com/watch?v=mndZKeckFIY
 
 
